@@ -1,1 +1,1 @@
-# singin-singup-jsvanilla
+# signin-signup-jsvanilla
